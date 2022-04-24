@@ -1,0 +1,8 @@
+Optimal Page Replacement Algorithm:
+Number of Hits: 4
+Number of Miss:5
+
+
+First Come First Out algorithm:
+Number of Miss:8
+Number of Hits:1
