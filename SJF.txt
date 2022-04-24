@@ -1,0 +1,8 @@
+
+pid  arrival brust  complete turn waiting
+1	  0	      3	     6	     6	     3
+2	  0	      1	     1	     1	     0
+3	  0	      2	     3	     3	     1
+
+average tat is 3.3333333
+average wt is 1.3333334
